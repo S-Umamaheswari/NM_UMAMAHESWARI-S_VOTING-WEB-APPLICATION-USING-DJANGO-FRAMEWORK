@@ -1,1 +1,5 @@
 # NM_UMAMAHESWARI-S_VOTING-WEB-APPLICATION-USING-DJANGO-FRAMEWORK
+
+LOGIN DETAILS:
+ user name : umamaheshwari@gmail.com
+ password: uma2341
